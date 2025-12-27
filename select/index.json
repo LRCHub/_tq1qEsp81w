@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "月を見ていた - Moongazing",
+  "base_artist": "米津玄師",
+  "createdAt": "2025-12-27T02:06:48.308201Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月を見ていた",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_月を見ていた_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "月を見ていた",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_月を見ていた_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "月を見ていた - Moongazing",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/03_月を見ていた_-_Moongazing_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "月を見ていた",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/04_月を見ていた_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "月を見ていた",
+      "artist": "Yonezu, Kenshi",
+      "has_synced": true,
+      "path": "select/05_月を見ていた_Yonezu,_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "月を見ていた - Moongazing",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/06_月を見ていた_-_Moongazing_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "月を見ていた",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/07_月を見ていた_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "月を見ていた - Moongazing - Tsuki Wo Miteita - Moongazing",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/08_月を見ていた_-_Moongazing_-_Tsuki_Wo_Miteita_-_Moongazing_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "月を見ていた - Moongazing",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/09_月を見ていた_-_Moongazing_米津玄師.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月を見ていた",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_月を見ていた_米津玄師.txt"
+    }
+  ]
+}
